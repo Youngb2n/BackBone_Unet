@@ -38,6 +38,9 @@ optional arguments:
 
 Result
 ------
+> DataSet의 데이터 수가 적어 모델의 성능을 비교하기에 적절하지 않았음.
+> 추후에 다른 데이터세트로 모델의 성능을 비교할 예정.    
+
 ### ResNet18   
 <img src="/image/1.png" width="80%" height="80%" title="img2" alt="img2"></img>   
 ### ResNet50   
