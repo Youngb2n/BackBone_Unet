@@ -39,12 +39,12 @@ optional arguments:
 Result
 ------
 ### ResNet18   
-<img src="/image/1.JPG" width="80%" height="80%" title="img2" alt="img2"></img>   
+<img src="/image/1.png" width="80%" height="80%" title="img2" alt="img2"></img>   
 ### ResNet50   
-<img src="/image/2.JPG" width="80%" height="80%" title="img2" alt="img2"></img>   
+<img src="/image/2.png" width="80%" height="80%" title="img2" alt="img2"></img>   
 
 ### DenseNet121   
-<img src="/image/3.JPG" width="80%" height="80%" title="img2" alt="img2"></img>   
+<img src="/image/3.png" width="80%" height="80%" title="img2" alt="img2"></img>   
 
 ### EfficientNet-B0   
-<img src="/image/4.JPG" width="80%" height="80%" title="img2" alt="img2"></img>   
+<img src="/image/4.png" width="80%" height="80%" title="img2" alt="img2"></img>   
